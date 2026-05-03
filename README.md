@@ -1,18 +1,18 @@
-# 🖥️ Blacky-OS
+# 🖥️ Browser-Desktop
 
 A modern, web-based desktop operating system built with **SvelteKit** and **TailwindCSS**.  
-Blacky-OS simulates an independent desktop environment inside your browser — featuring a window manager, taskbar, and customizable apps.
+Browser-Desktop simulates an independent desktop environment inside your browser — featuring a window manager, taskbar, and customizable apps.
 
-![GitHub Repo size](https://img.shields.io/github/repo-size/RalfKit/blacky-os)
-![GitHub last commit](https://img.shields.io/github/last-commit/RalfKit/blacky-os)
-![GitHub License](https://img.shields.io/github/license/RalfKit/blacky-os)
+![GitHub Repo size](https://img.shields.io/github/repo-size/RalfKit/browser-desktop)
+![GitHub last commit](https://img.shields.io/github/last-commit/RalfKit/browser-desktop)
+![GitHub License](https://img.shields.io/github/license/RalfKit/browser-desktop)
 ![Project Status](https://img.shields.io/badge/status-in%20development-orange)
 
 ## 📸 Preview
 
-🌐 **Live-Demo:** [blacky-os.vercel.app](https://blacky-os.vercel.app)
+🌐 **Live-Demo:** [browser-desktop.vercel.app](https://browser-desktop.vercel.app)
 
-> ✨ Coming soon: Screenshot or GIF demo of Blacky-OS in action.
+> ✨ Coming soon: Screenshot or GIF demo of Browser-Desktop in action.
 
 ## 🚀 Features
 
@@ -34,8 +34,8 @@ Blacky-OS simulates an independent desktop environment inside your browser — f
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/RalfKit/blacky-os.git
-cd blacky-os
+git clone https://github.com/RalfKit/browser-desktop.git
+cd browser-desktop
 pnpm install
 pnpm run dev
 ```
@@ -45,8 +45,8 @@ Then open `http://localhost:5173` in your browser.
 ## 🤝 Contributing
 
 Ideas, feature requests, and pull requests are welcome!  
-Feel free to [open an issue](https://github.com/RalfKit/blacky-os/issues) to share feedback or suggestions.
+Feel free to [open an issue](https://github.com/RalfKit/browser-desktop/issues) to share feedback or suggestions.
 
 ---
 
-**Blacky-OS** — the virtual operating system for your browser.
+**Browser-Desktop** — the virtual operating system for your browser.
