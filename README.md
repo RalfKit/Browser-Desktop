@@ -12,7 +12,19 @@ Browser-Desktop simulates an independent desktop environment inside your browser
 
 🌐 **Live-Demo:** [browser-desktop.vercel.app](https://browser-desktop.vercel.app)
 
-> ✨ Coming soon: Screenshot or GIF demo of Browser-Desktop in action.
+## 📸 Screenshots
+
+### Desktop Overview
+
+![Desktop Overview](docs/screenshots/01-desktop-overview.png)
+
+### Window Management
+
+![Window Management](docs/screenshots/02-window-overlap-focus.png)
+
+### Multi-Window Management
+
+![Window Management](docs/screenshots/03-multi-window-state.png)
 
 ## 🚀 Features
 
