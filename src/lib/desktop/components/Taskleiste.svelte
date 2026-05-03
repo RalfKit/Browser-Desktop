@@ -45,7 +45,7 @@
 </script>
 
 <nav
-	class="bg-base-300 fixed bottom-0 z-[9900] flex h-14 w-full items-center justify-between gap-2 p-2"
+	class="bg-base-300 fixed bottom-0 z-9900 flex h-14 w-full items-center justify-between gap-2 p-2"
 >
 	<div
 		class="flex flex-1 overflow-x-auto overflow-y-hidden"
