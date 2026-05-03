@@ -8,7 +8,7 @@
 			<div class="max-w-md">
 				<h2 class="mb-5 text-4xl font-bold opacity-10 lg:text-6xl xl:text-8xl">{page.status}</h2>
 				<p class="mb-5 text-3xl">{page.error?.message}</p>
-				<a href="./" class="btn btn-outline btn-sm md:btn-md"> Startseite </a>
+				<a href="/" class="btn btn-outline btn-sm md:btn-md"> Startseite </a>
 			</div>
 		</div>
 	</div>
