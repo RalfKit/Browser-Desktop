@@ -15,7 +15,7 @@
 			Many features such as window management, and taskbar are already functional — but many more are
 			coming soon!<br />
 			<a
-				href="https://github.com/BlackTiger007/blacky-os"
+				href="https://github.com/RalfKit/blacky-os"
 				class="link-primary link"
 				target="_blank"
 				rel="noopener noreferrer"

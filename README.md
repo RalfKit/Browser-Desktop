@@ -3,9 +3,9 @@
 A modern, web-based desktop operating system built with **SvelteKit** and **TailwindCSS**.  
 Blacky-OS simulates an independent desktop environment inside your browser — featuring a window manager, taskbar, and customizable apps.
 
-![GitHub Repo size](https://img.shields.io/github/repo-size/BlackTiger007/blacky-os)
-![GitHub last commit](https://img.shields.io/github/last-commit/BlackTiger007/blacky-os)
-![GitHub License](https://img.shields.io/github/license/BlackTiger007/blacky-os)
+![GitHub Repo size](https://img.shields.io/github/repo-size/RalfKit/blacky-os)
+![GitHub last commit](https://img.shields.io/github/last-commit/RalfKit/blacky-os)
+![GitHub License](https://img.shields.io/github/license/RalfKit/blacky-os)
 ![Project Status](https://img.shields.io/badge/status-in%20development-orange)
 
 ## 📸 Preview
@@ -34,7 +34,7 @@ Blacky-OS simulates an independent desktop environment inside your browser — f
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/BlackTiger007/blacky-os.git
+git clone https://github.com/RalfKit/blacky-os.git
 cd blacky-os
 pnpm install
 pnpm run dev
@@ -45,7 +45,7 @@ Then open `http://localhost:5173` in your browser.
 ## 🤝 Contributing
 
 Ideas, feature requests, and pull requests are welcome!  
-Feel free to [open an issue](https://github.com/BlackTiger007/blacky-os/issues) to share feedback or suggestions.
+Feel free to [open an issue](https://github.com/RalfKit/blacky-os/issues) to share feedback or suggestions.
 
 ---
 
