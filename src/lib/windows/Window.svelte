@@ -36,7 +36,7 @@
 	onmousedown={() => aktivWindow(win.id)}
 >
 	<div
-		class="flex items-center justify-between bg-gray-800 select-none"
+		class="flex items-center justify-between bg-base-300 select-none"
 		use:moveWindow={{ id: win.id, enabled: !win.minimized && !win.maximized }}
 	>
 		<span>{win.title}</span>
