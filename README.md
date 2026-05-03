@@ -1,5 +1,7 @@
 # 🖥️ Browser-Desktop
 
+🌐 **Live-Demo:** [browser-desktop.vercel.app](https://browser-desktop.vercel.app)
+
 A web-based desktop environment built with **SvelteKit** and **TailwindCSS**.
 
 Browser-Desktop simulates a desktop-like workspace inside the browser, designed to provide a unified place for simple productivity tools such as notes, to-dos, calendar views, and lightweight apps — accessible from anywhere.
